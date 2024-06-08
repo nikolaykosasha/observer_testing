@@ -1,0 +1,1 @@
+The Observer App is a real-time chat application built on the concept of WebSocket communication, that allows users to create and join rooms, chat and share their code with teacher.
